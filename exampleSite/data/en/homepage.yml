@@ -37,8 +37,9 @@ features:
       to produce ultra-low distortion audio so you hear every detail
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'SteelSeries cannot guarantee the quality or authenticity of products
+      sold by non-authorized resellers on Amazon, and they are not eligible for warranty.
+      Authorized retailers: Amazon.com, Adorama Inc, Encore Technology, Spacebound'
 promo:
   enable: true
   image: images/watch.png
