@@ -28,7 +28,7 @@ features:
       longest gaming sessions; Compatible only with pc, mac, ps, switch and mobile;
       Headphone sensitivity: 98 dB'
   right_side:
-  - title: Smooth Touch
+  - title: latency
     icon: tf-ion-ios-alarm-outline
     content: Lossless wireless audio with ultra-low latency and zero interference
   - title: Sound
