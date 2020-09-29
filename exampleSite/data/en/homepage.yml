@@ -2,8 +2,9 @@
 banner:
   enable: true
   title: Believe in Technology, Make the change
-  content: Lossless Wireless Gaming Headset with DTS Headphone:X v2.0 Surround - For
-    PC and PlayStation 4 - Black
+  content: |-
+    SteelSeries Arctis 7
+    Lossless Wireless Gaming Headset with DTS Headphone:X v2.0 Surround - For PC and PlayStation 4 - Black
   image: SteelSeries Arctis 7.jpg
   button:
     enable: true
